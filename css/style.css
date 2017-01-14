@@ -5,7 +5,7 @@ selector {
 */
 container {
     width: 100%;
-    border: 1px solid gray;
+    border: 1px solid blue;
 }
 
 header, footer {
