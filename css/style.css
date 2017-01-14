@@ -5,9 +5,10 @@ selector {
 */
 
 header {
-  background: url('img/#');
+  background: url('img/fox.jpg');
   width: 100%;
   padding: 50px;
+  text-align: center;
 }
 
 header h1 {
