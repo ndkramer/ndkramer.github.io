@@ -22,11 +22,10 @@ nav ul {
   padding: 0;
   overflow: hidden;
   background-color: #333;
+  text-align: center;
 }
 
-nav ul li {
-  float: center;
-}
+
 
 nav ul li a {
   display: block;
