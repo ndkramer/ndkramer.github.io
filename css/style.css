@@ -4,6 +4,13 @@ selector {
 }
 */
 
+header {
+  background: url('img/#');
+  width: 100%;
+  padding: 50px;
+}
+
 header h1 {
   color: #00802b;
 }
+
