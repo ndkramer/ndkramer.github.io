@@ -3,7 +3,7 @@ selector {
   property; value;
 }
 */
-.container {
+div.container {
     width: 100%;
     border: 1px solid blue;
 }
