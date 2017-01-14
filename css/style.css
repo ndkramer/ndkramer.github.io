@@ -45,16 +45,17 @@ nav ul li a:hover {
   color: red;
 }
   
- #green {
-   background: green;
+ #green, #blue {
    color: white;
    font-size: 20px;
 }
 
  #blue {
    background: blue;
-   color: white;
-   font-size: 20px;
+}
+
+ #green {
+   background: green;
 }
 
 
