@@ -5,7 +5,7 @@ selector {
 */
 
 header {
-  background: url('img/kw.jpg');
+  background: url("img/kw.jpg");
   width: 100%;
   padding: 50px;
   text-align: center;
