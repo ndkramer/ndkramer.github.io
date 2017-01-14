@@ -16,6 +16,10 @@ header h1 {
   color: #00802b;
 }
 
+nav {
+  text-align: center;
+}
+
 nav ul {
   list-style-type: none;
   margin: 0;
@@ -25,10 +29,12 @@ nav ul {
   text-align: center;
 }
 
-
+nav li {
+  display: inline;
+}
 
 nav ul li a {
-  display: block;
+  display: inline-block;
   color: white;
   text-align: center;
   padding: 19px 16px;
